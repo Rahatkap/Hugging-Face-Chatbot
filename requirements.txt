@@ -1,0 +1,8 @@
+## Libraries Required
+ langchain-huggingface
+## For API Calls
+ huggingface_hub
+ transformers
+ accelerate
+ bitsandbytes
+ langchain
